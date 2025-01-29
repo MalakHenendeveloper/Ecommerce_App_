@@ -1,8 +1,7 @@
 
 🚀 E-commerce App
 
-E-commerce App is a Flutter application designed for browsing and shopping products. The app allows users to view products, add them to the cart, and proceed with checkout. It integrates with Firebase Firestore to store product details, cart information, and user orders. The app follows Clean Architecture for scalability and uses Bloc/Cubit for efficient state management. The app also includes features like user authentication, product search, and order tracking.
-
+The E-commerce App is a Flutter application designed for browsing and shopping products. It allows users to view products, add them to the cart, and proceed with checkout. The app follows Clean Architecture for scalability and uses Bloc/Cubit for efficient state management. It also includes features like user authentication, product search, and order tracking.
 🛠️ Technologies and Tools Used
 
 🏗 Flutter: The core framework for building the application.
